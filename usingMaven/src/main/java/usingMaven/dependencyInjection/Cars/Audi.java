@@ -3,7 +3,7 @@ package usingMaven.dependencyInjection.Cars;
 import org.springframework.stereotype.Component;
 
 import usingMaven.dependencyInjection.interfaces.Car;
-@Component
+
 public class Audi implements Car {
 
 	@Override
